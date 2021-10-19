@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @acmades
+- 👀 I’m interested in programming. Haskell, Python, C++, Machine Learning
+- 🌱 I’m currently studying and working part-time.
+- 💞️ I’m looking to collaborate in the field of programming and machine learning.
+- 📫 acmades@ya.ru
